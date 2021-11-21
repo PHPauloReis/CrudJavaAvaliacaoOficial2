@@ -1,3 +1,11 @@
+/*
+* Unime - Lauro de Freitas
+* Bacharelado em Sistemas de Informação
+* Programação Orientada a Obejtos II
+* Pablo Ricardo Roxo Silva
+* Ítalo Nascimento e Paulo Reis
+*/
+
 import Views.BookCRUD;
 
 import javax.swing.*;
